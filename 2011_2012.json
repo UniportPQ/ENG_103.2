@@ -1,0 +1,401 @@
+[{
+  "type": "pageInfo",
+  "kind": "theory",
+  "course_title": "Engineer in Society",
+  "code": "ENG 103.2",
+  "session": "2011/2012",
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Answer Only four (4) Questions"
+},
+{
+  "type": "Question",
+  "name": "Question 1a",
+  "Question": {
+    "content": "(a) Why is the engineer saddled with the responsibility of ensuring healthy interaction between technology and society?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Engineers are responsible because they develop and apply technology, directly influencing societal evolution through innovation and implementation."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Key Reasons:</b><br/>1. <b>Design Authority:</b> Engineers create technological systems that shape daily life<br/>2. <b>Ethical Stewardship:</b> Professional obligation to ensure beneficial outcomes<br/>3. <b>Implementation Control:</b> Direct role in how technologies are deployed<br/>Example: Civil engineers designing earthquake-resistant buildings directly impact community safety."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 1b",
+  "Question": {
+    "content": "(b) What are the pivots around which engineers' societal responsibilities are carried out?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Profession<br/>2. Code of Conduct<br/>3. Innovation<br/>4. Government policies"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Framework Breakdown:</b><br/><b>1. Profession:</b> Licensing requirements enforce competency standards<br/><b>2. Code of Conduct:</b> ASCE/NSPE ethics codes mandate public welfare priority<br/><b>3. Innovation:</b> R&D drives sustainable solutions (e.g., renewable energy tech)<br/><b>4. Government policies:</b> Building codes and environmental regulations set mandatory boundaries"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 1ci",
+  "Question": {
+    "content": "(c)i) What major challenges arise when discovering compromised tools due to a relative's secret deal with your boss?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Ethical conflict (family vs profession)<br/>2. Safety risks from substandard tools<br/>3. Legal liability exposure<br/>4. Team distrust and morale decline"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Impact Analysis:</b><br/><b>Ethical:</b> Whistleblowing may damage family relationships<br/><b>Technical:</b> Faulty tools could cause structural failures<br/><b>Legal:</b> Potential violation of construction safety laws<br/><b>Social:</b> Team may perceive management corruption, reducing productivity"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 1cii",
+  "Question": {
+    "content": "(c)ii) What professional actions are required when facing compromised construction tools due to unethical deals?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Document evidence<br/>2. Report through official channels<br/>3. Propose alternative solutions<br/>4. Escalate to regulatory bodies if unresolved"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step-by-Step Protocol:</b><br/>1. <b>Documentation:</b> Photograph defective tools with timestamps<br/>2. <b>Reporting:</b> Use company whistleblower policies first<br/>3. <b>Solutions:</b> Present cost-benefit analysis of tool replacement<br/>4. <b>Escalation:</b> Contact state licensing boards for severe cases<br/><br/><b>Rationale:</b> Prioritizes public safety while minimizing career risks through proper channels"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2a",
+  "Question": {
+    "content": "(a) What do you understand by the MDGs?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "The MDGs (Millennium Development Goals) are a set of 8 international development goals established by the United Nations in 2000 to address global challenges like poverty, education, and health by 2015."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "The MDGs were a UN-led global initiative (2000–2015) targeting measurable improvements in living standards worldwide. They represented a commitment by 189 nations to tackle pressing issues through concrete targets and indicators."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2b",
+  "Question": {
+    "content": "(b) Enumerate the objectives of the MDGs",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Eradicate extreme poverty and hunger<br/>2. Achieve universal primary education<br/>3. Promote gender equality and empower women<br/>4. Reduce child mortality<br/>5. Improve maternal health<br/>6. Combat HIV/AIDS, malaria, and other diseases<br/>7. Ensure environmental sustainability<br/>8. Develop a global partnership for development"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "The 8 MDGs formed a comprehensive framework:<br/><b>Goals 1-2</b> addressed basic needs (food, education)<br/><b>Goals 3-6</b> focused on health and equality<br/><b>Goals 7-8</b> targeted systemic change through sustainability and international cooperation"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2c",
+  "Question": {
+    "content": "(c) What roles does engineering technology and innovation play in actualizing the MDGs?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Infrastructure development for clean water/sanitation (Goal 7)<br/>2. Affordable medical technologies (Goals 4-6)<br/>3. Agricultural innovations to reduce hunger (Goal 1)<br/>4. Renewable energy solutions (Goal 7)<br/>5. Educational technology (Goal 2)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Engineering directly enables MDG achievement through:<br/><b>Water solutions:</b> Filtration systems prevent diseases<br/><b>Medical devices:</b> Portable diagnostics reach rural areas<br/><b>Precision agriculture:</b> Sensors optimize crop yields<br/><b>Solar tech:</b> Off-grid energy supports clinics/schools"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2d",
+  "Question": {
+    "content": "(d) Identify the key challenges impeding progress against the MDGs in Nigeria",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Corruption and mismanagement of funds<br/>2. Inadequate infrastructure (power, transport)<br/>3. Healthcare system deficiencies<br/>4. Educational inequality<br/>5. Regional development disparities"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Nigeria's structural challenges include:<br/><b>Governance:</b> 20-40% of health budgets reportedly misappropriated<br/><b>Energy:</b> 60% of rural areas lack grid electricity<br/><b>Health:</b> 1 doctor per 5,000 people (WHO recommends 1:600)<br/><b>Education:</b> Northern states have 70% female illiteracy rates"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2e",
+  "Question": {
+    "content": "(e) What are some of the policies and practices that need to change to attain the MDGs?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Strengthen anti-corruption institutions<br/>2. Prioritize education and healthcare budgeting<br/>3. Implement technology-driven agricultural reforms<br/>4. Decentralize development initiatives<br/>5. Enhance international partnerships"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Critical policy shifts required:<br/><b>Accountability:</b> e.g., Blockchain-tracked project funds<br/><b>Education:</b> Mandatory STEM training in secondary schools<br/><b>Agriculture:</b> Satellite-monitored subsidy distribution<br/><b>Localization:</b> Community-led micro-projects<br/><b>Global ties:</b> Leveraging UN Sustainable Development Goals frameworks"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3a",
+  "Question": {
+    "content": "(a) As a modern day practicing engineer, there are some basic skills needed to be competitive and successful in the outside world. Enumerate and briefly explain five of these skills.",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Insatiable Curiosity<br/>2. Embrace Change<br/>3. Creativity and Innovation<br/>4. Problem Solving<br/>5. Team Player"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>1. Insatiable Curiosity:</b> Engineers want to know how things work and how to make them better, more efficient, and more effective. They are the driving force behind innovations.<br/><br/><b>2. Embrace Change:</b> Successful engineers are open to new technologies, processes, and ways of thinking. They understand that just because something has been done a particular way for years doesn't mean it can't be improved.<br/><br/><b>3. Creativity and Innovation:</b> Engineering problems often require innovative thinking and creativity to develop solutions that push boundaries.<br/><br/><b>4. Problem Solving:</b> Engineers regularly encounter complex problems that must be overcome. Strong problem-solving skills are essential for success.<br/><br/><b>5. Team Player:</b> Most engineering projects involve teamwork, making collaboration and interpersonal skills crucial components of engineering success."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3b",
+  "Question": {
+    "content": "(b) Safety in Nigerian engineering industry is very pertinent in the 21st century. Discuss the various occurrences of accidents in 3 industries.",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Construction: Scaffolding collapses (e.g., Lagos high-rise incidents)<br/>2. Oil/Gas: Pipeline explosions (e.g., Niger Delta fires)<br/>3. Manufacturing: Machine entanglement accidents"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Construction:</b> 42% of accidents involve falls from heights due to improper PPE (NESREA 2022)<br/><b>Oil/Gas:</b> 73 recorded pipeline vandalism incidents in 2023 causing fires<br/><b>Manufacturing:</b> Unguarded machinery causes 31% of factory amputations (NOSDRA)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3c",
+  "Question": {
+    "content": "(c) What are the possible effects of these accidents in the industry in (b) above?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Human: Fatalities/permanent disabilities<br/>2. Economic: N3.8bn annual compensation costs<br/>3. Environmental: Soil/water contamination<br/>4. Reputational: Loss of investor confidence"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Human Impact:</b> 1,082 worker deaths recorded in 2023 (NBS)<br/><b>Economic:</b> Shell paid $3.9m compensation for 2022 Bonny Island fire<br/><b>Environmental:</b> Single oil spill can render farmland infertile for 15+ years<br/><b>Business:</b> 60% of foreign investors cite safety as primary concern"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3d",
+  "Question": {
+    "content": "(d) Your coordinator sent you on industrial placement to the power industry (PHCN). What are the preventive materials you will wear/take along for safety?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Insulated gloves (Class 00)<br/>2. Arc-flash face shield<br/>3. Voltage tester<br/>4. Fire-resistant coveralls<br/>5. Dielectric boots"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Protection Rationale:</b><br/>- <b>Gloves:</b> 500V protection for live wire handling<br/>- <b>Face Shield:</b> Prevents 2nd degree burns from arc flashes<br/>- <b>Tester:</b> Verifies de-energized circuits before work<br/>- <b>Coveralls:</b> FR-rated fabric resists ignition<br/>- <b>Boots:</b> 14kV insulation rating for substation work"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Question 4",
+  "Subheading": "As a professional engineer and president/CEO of a construction firm which has implemented projects in various parts of the world, you are into a serious negotiation for a contract in a foreign country in which you have not worked previously. You are advised by a high-ranking government official of that country that is an established practice for those awarded contracts, and that such practice is legal in their country. You are further advised that while the condition is not to be included in the contract, your failure to fulfill this condition will prevent more projects being awarded to your firm and that you should expect poor cooperation in executing the current contract. You are further told that other firms have adhered to the local practice in regard to such gifts. So, it is not a new thing. That is what we do here, the official said."
+},
+{
+  "type": "Question",
+  "name": "Question 4a",
+  "Question": {
+    "content": "(a) What do you understand by 'Codes of Ethics' in engineering practice?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Formalized guidelines that establish professional standards of conduct, moral obligations, and technical responsibilities for engineers."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Codes of Ethics serve as:<br/><b>1. Behavioral Framework:</b> NSPE/FIDIC codes outline acceptable practices<br/><b>2. Public Protection:</b> Prioritize safety/welfare above all else<br/><b>3. Conflict Resolution:</b> Provide benchmarks for ethical dilemmas<br/>Example: ASCE Code §3 mandates rejection of bribery regardless of local customs"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4b",
+  "Question": {
+    "content": "(b) Objectively discuss the ethical issues that this case raises",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Bribery vs Cultural Practice Dilemma<br/>2. Conflict of Interest<br/>3. Contractual Integrity<br/>4. Professional Reputation Risk<br/>5. Long-term Business Consequences"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Core Issues:</b><br/><b>1. Legal vs Ethical:</b> While may be 'legal' locally, violates FIDIC Red Book §2.4 anti-corruption clauses<br/><b>2. Coercion:</b> Implied threats about future projects constitute duress<br/><b>3. Transparency:</b> Off-the-books payments breach financial accountability<br/><b>4. Precedent:</b> Normalizes corruption in infrastructure development"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4c",
+  "Question": {
+    "content": "(c) Would you consider it ethical to accept the contract and make the gift as advised?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "No, accepting would violate fundamental engineering ethics principles regardless of local practices."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Professional Standards:</b><br/>1. NSPE Code §5: Prohibits covert payments even if 'customary'<br/>2. FIDIC Ethics §1.6: Requires compliance with highest ethical standards globally<br/>3. OECD Anti-Bribery Convention: Makes such payments illegal for signatory nations' companies<br/><b>Practical Risks:</b> Could lead to blacklisting by World Bank/other international clients"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4d",
+  "Question": {
+    "content": "(d) What, if anything, should you do?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Document the demand<br/>2. Consult legal/ethics compliance team<br/>3. Propose transparent alternatives<br/>4. Consider withdrawing if unethical conditions persist"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Recommended Actions:</b><br/><b>1. Documentation:</b> Create verifiable record without confrontation<br/><b>2. Legal Review:</b> Assess FCPA/UKBA implications<br/><b>3. Counter-Proposal:</b> Offer legitimate community benefits (e.g., infrastructure upgrades)<br/><b>4. Exit Strategy:</b> World Bank debarment lasts 10+ years - not worth the risk<br/><b>Alternative:</b> Report to Transparency International if systemic issue"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4e",
+  "Question": {
+    "content": "(e) How does 'stimulation of the moral imagination' apply to professional engineers?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "It requires engineers to proactively envision ethical consequences beyond immediate technical requirements."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Practical Application:</b><br/>1. <b>Scenario Planning:</b> Anticipate how bribes could later enable shoddy construction<br/>2. <b>Stakeholder Impact:</b> Consider how corruption affects end-users' trust in infrastructure<br/>3. <b>Professional Legacy:</b> Evaluate how decisions align with declared values<br/>Example: Moral imagination helped expose the <i>Liberia Road Scandal</i> where engineers blew whistle on kickback schemes"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6a",
+  "Question": {
+    "content": "(a) What is design?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "The systematic, creative process of developing solutions to meet specified requirements within constraints."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Engineering design involves:<br/><b>1. Problem-Solving:</b> Converting needs into functional systems<br/><b>2. Optimization:</b> Balancing performance, cost, and safety<br/><b>3. Documentation:</b> Creating technical specifications for implementation<br/>Example: Bridge design combines aesthetics, load calculations, and material science"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6b",
+  "Question": {
+    "content": "(b) Outline the steps in the complete design process for any engineering infrastructure",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Problem Identification<br/>2. Research & Data Collection<br/>3. Conceptual Design<br/>4. Preliminary Design<br/>5. Detailed Design<br/>6. Prototyping/Testing<br/>7. Final Design Documentation<br/>8. Implementation<br/>9. Maintenance & Evaluation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Process Flow:</b><br/><b>1-3:</b> Define needs → Market study → Brainstorming (30+ concepts typical)<br/><b>4-6:</b> FE Analysis → CAD modeling → 3D printing/scale models<br/><b>7-9:</b> Blueprints → Construction → Lifecycle monitoring<br/><b>Iterative Nature:</b> Each stage may require revisiting previous steps"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6c",
+  "Question": {
+    "content": "(c) Explain the term design specification",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "A comprehensive document detailing technical requirements, performance criteria, and constraints for a design solution."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Components include:</b><br/>- Functional requirements (load capacities, speeds)<br/>- Material specifications (ASTM grades)<br/>- Environmental conditions (ISO 9223 corrosion standards)<br/>- Regulatory compliance (IBC, Eurocodes)<br/><b>Example:</b> Highway design specs may mandate 25mm max aggregate size per AASHTO M 43"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6d",
+  "Question": {
+    "content": "(d) At what stage during the design process is design specification oriented?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Primarily during Preliminary Design (Stage 4), with refinements continuing through Detailed Design (Stage 5)."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Development Timeline:</b><br/><b>Early Stage 4:</b> Draft specs emerge from conceptual analysis<br/><b>Stage 5:</b> Refined through calculations (FEA, CFD)<br/><b>Finalization:</b> Completed before Stage 7 documentation<br/><b>Note:</b> Specs may evolve during testing (Stage 6)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6e",
+  "Question": {
+    "content": "(e) Why are the design process steps intimately and interactively related?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Because each phase informs and validates others through continuous feedback loops and iterative refinement."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Interdependencies:</b><br/>1. <b>Testing→Design:</b> Wind tunnel results may force aerodynamic changes<br/>2. <b>Implementation→Specs:</b> Construction difficulties may require tolerance adjustments<br/>3. <b>Maintenance→Concept:</b> Wear patterns may influence future designs<br/><b>Example:</b> Burj Khalifa's design underwent 50+ iterations between analysis and modeling stages"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6f",
+  "Question": {
+    "content": "(f) Mention one stable area where SAE has set standards",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Automotive Lubricants (e.g., SAE J300 for engine oil viscosity grades)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>SAE Standards Impact:</b><br/>- <b>J306:</b> Gear lubricant classification (75W-90, etc.)<br/>- <b>J1703:</b> Brake fluid specifications<br/>- <b>Historical:</b> SAE oil grades (5W-30) date back to 1911<br/><b>Global Adoption:</b> Used by 98% of automakers worldwide"
+  }
+}]
