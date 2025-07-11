@@ -305,6 +305,86 @@
 },
 {
   "type": "Question",
+  "name": "Question 5a",
+  "Question": {
+    "content": "(a) What is the objective of monitoring evaluation?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "To systematically assess project performance against established benchmarks for quality control and decision-making."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Key Purposes:</b><br/>1. <b>Performance Tracking:</b> Compare actual vs planned progress (e.g., 70% completion against 80% target)<br/>2. <b>Quality Assurance:</b> Verify compliance with specs (ASTM/ISO standards)<br/>3. <b>Risk Mitigation:</b> Identify deviations early (material defects, schedule delays)<br/>4. <b>Stakeholder Reporting:</b> Provide objective data for investors/regulators"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5b",
+  "Question": {
+    "content": "(b) Discuss the requirements for successful monitoring evaluation",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Clear KPIs<br/>2. Standardized procedures<br/>3. Qualified personnel<br/>4. Real-time data systems<br/>5. Responsive feedback mechanisms"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Implementation Essentials:</b><br/><b>1. KPIs:</b> Quantifiable metrics like '95% concrete strength achieved'<br/><b>2. Procedures:</b> ASTM E2279 for construction monitoring<br/><b>3. Personnel:</b> Certified inspectors (AWS CWI, NACE)<br/><b>4. Technology:</b> IoT sensors for continuous strain monitoring<br/><b>5. Feedback:</b> Weekly coordination meetings with actionable items"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5c",
+  "Question": {
+    "content": "(c) As a young engineer in a consulting firm, discuss your instruments of office",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Technical tools<br/>2. Professional certifications<br/>3. Ethical guidelines<br/>4. Quality standards<br/>5. Communication protocols"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Professional Toolkit:</b><br/><b>1. Tools:</b> AutoCAD Civil 3D, Primavera P6, MATLAB<br/><b>2. Credentials:</b> EIT certification, OSHA 30-Hour<br/><b>3. Ethics:</b> NSPE Code of Conduct<br/><b>4. Standards:</b> ACI 318 for concrete design<br/><b>5. Protocols:</b> Client report templates, BIM collaboration guidelines"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5d",
+  "Question": {
+    "content": "(d) What differentiates a bricklayer/mechanic from a civil/mechanical engineer?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Formal education<br/>2. Design capability<br/>3. Analytical skills<br/>4. Legal responsibilities<br/>5. Systems thinking"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Key Distinctions:</b><br/><b>1. Education:</b> ABET-accredited engineering degree (4-5 yrs)<br/><b>2. Design:</b> Ability to create original solutions using STAAD.Pro/SolidWorks<br/><b>3. Analysis:</b> Structural FEA or thermodynamic calculations<br/><b>4. Liability:</b> PE stamp carries legal weight<br/><b>5. Perspective:</b> Understands how components interact in complex systems"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5e",
+  "Question": {
+    "content": "(e) As engineers, 'we are all in the same boat' how?",
+    "type": "THEORY"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Shared responsibility for public safety, adherence to ethical codes, and collective advancement of technology."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Common Bonds:</b><br/>1. <b>Safety:</b> All disciplines prioritize fail-safes (factor of safety ≥2.5)<br/>2. <b>Ethics:</b> Universal obligation per Washington Accord<br/>3. <b>Innovation:</b> Cross-disciplinary collaboration (e.g., mechatronics)<br/>4. <b>Accountability:</b> Chain of responsibility in projects like SpaceX launches<br/><b>Example:</b> Both electrical and structural engineers ensure tower stability during wind loading"
+  }
+},
+{
+  "type": "Question",
   "name": "Question 6a",
   "Question": {
     "content": "(a) What is design?",
