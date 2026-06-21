@@ -1,15 +1,12 @@
+
 [{
   "type": "pageInfo",
   "kind": "subjective",
   "course_title": "Engineers in Society",
   "code": "ENG 103.2",
   "session": "2024/2025",
-  "topics": [
-    "Roles of Engineers",
-    "Engineering Ethics",
-    "Sustainable Development"
-  ],
-  "time": "25 minutes"
+  "topics": ["Engineering Ethics", "Engineering Practice in Nigeria", "Environmental Impact", "Introduction to Engineering", "Professional Skills", "Public Health", "Roles of Engineers", "Sustainable Development"],
+  "time": 40
 },
   {
     "type": "Instruction",
