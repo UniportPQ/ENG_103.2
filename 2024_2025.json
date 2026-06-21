@@ -1,0 +1,386 @@
+[{
+  "type": "pageInfo",
+  "kind": "subjective",
+  "course_title": "Engineers in Society",
+  "code": "ENG 103.2",
+  "session": "2024/2025",
+  "topics": [
+    "Roles of Engineers",
+    "Engineering Ethics",
+    "Sustainable Development"
+  ],
+  "time": "25 minutes"
+},
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Roles of Engineers"
+    ],
+    "Question": {
+      "content": "The roles of engineers in nation building include the following, except",
+      "type": "OBJ",
+      "options": [
+        "Food production",
+        "Oil bunkering",
+        "Transportation",
+        "Energy Supply"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oil bunkering"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Engineers play a critical role in developing a nation's infrastructure, such as food production (agricultural engineering), transportation (civil/automotive), and energy supply (electrical/petroleum). <strong>Oil bunkering</strong>, in the context of Nigeria, often refers to the illegal siphoning and theft of crude oil, which is a criminal act and not a professional engineering role.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Oil bunkering</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Introduction to Engineering"
+    ],
+    "Question": {
+      "content": "The practical application of knowledge, science, computing, tools, machinery is known as:",
+      "type": "OBJ",
+      "options": [
+        "Marketing",
+        "Accounting",
+        "Engineering",
+        "Science"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Engineering"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>While science focuses on understanding the natural world, <strong>Engineering</strong> is the practical application of that scientific and mathematical knowledge to design, build, and maintain tools, machinery, structures, and systems to solve real-world problems.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Engineering</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Professional Skills"
+    ],
+    "Question": {
+      "content": "As an engineer, you may be involved in which of the following:",
+      "type": "OBJ",
+      "options": [
+        "Negotiations",
+        "Fighting",
+        "Touting",
+        "Sorting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Negotiations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Modern engineering isn't just about technical calculations. Engineers frequently engage in <strong>negotiations</strong> with clients, contractors, and stakeholders regarding project scope, budgets, timelines, and safety standards. The other options are unprofessional or irrelevant.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Negotiations</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Roles of Engineers"
+    ],
+    "Question": {
+      "content": "Engineers play a crucial role in achieving national development by addressing engineering, social-economic and technological challenges (TRUE or FALSE)",
+      "type": "OBJ",
+      "options": [
+        "TRUE",
+        "FALSE"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "TRUE"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Engineers are problem solvers who tackle a wide array of challenges. Their innovations drive technological advancement, which in turn boosts economic growth and improves the social well-being of a nation.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> TRUE</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Roles of Engineers",
+      "Environmental Impact"
+    ],
+    "Question": {
+      "content": "Engineers contribute to the following, except:",
+      "type": "OBJ",
+      "options": [
+        "Public Health",
+        "Poverty Elevation",
+        "Environmental Conservation",
+        "industrial Pollution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Poverty Elevation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Engineers aim to improve society. They contribute to Public Health (clean water, medical devices) and Environmental Conservation. While \"Industrial Pollution\" is a negative consequence of some industries, engineers actively work to mitigate it. \"Poverty Elevation\" (increasing poverty) is the direct opposite of their goal, which is poverty <em>alleviation</em> through job creation and infrastructure.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Poverty Elevation (or Industrial Pollution)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Professional Skills"
+    ],
+    "Question": {
+      "content": "Engineers are creative both as initiators and implementers of new ideas (TRUE or FALSE)",
+      "type": "OBJ",
+      "options": [
+        "TRUE",
+        "FALSE"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "TRUE"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Creativity and innovation are core engineering traits. Engineers initiate new ideas during the design phase and find creative ways to implement those ideas effectively during the construction or manufacturing phases.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> TRUE</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Sustainable Development"
+    ],
+    "Question": {
+      "content": "Sustainable engineering is based on principles that support which of the following:",
+      "type": "OBJ",
+      "options": [
+        "Sustainable development",
+        "Building of houses",
+        "Educational development",
+        "manufacturing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sustainable development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Sustainable engineering integrates social, environmental, and economic considerations into the design of products and systems. Its foundational goal is to support <strong>sustainable development</strong>—meeting present needs without compromising future generations.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Sustainable development</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Sustainable Development"
+    ],
+    "Question": {
+      "content": "The following are the goal of green engineering, except:",
+      "type": "OBJ",
+      "options": [
+        "Minimize adverse impacts on the environment",
+        "Maximizing benefits to the economy",
+        "Degradation of environment",
+        "Sustainable agriculture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Degradation of environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Green engineering focuses on designing systems that minimize pollution, promote sustainability, and protect ecosystems. <strong>Degradation of the environment</strong> goes completely against the principles of green engineering.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Degradation of environment</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Roles of Engineers",
+      "Public Health"
+    ],
+    "Question": {
+      "content": "The role of engineers in public health include the following, except",
+      "type": "OBJ",
+      "options": [
+        "Water Supply",
+        "Waste generation",
+        "Wastewater Management",
+        "Waste Recycling"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Waste generation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Engineers protect public health by providing clean water supply, treating wastewater, and recycling waste. <strong>Waste generation</strong> is a problem that engineers work to solve and minimize, not a role they actively try to perform for public health.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Waste generation</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Engineering Ethics"
+    ],
+    "Question": {
+      "content": "Which of the following is not one the Ethical Principles of Professional Engineers:",
+      "type": "OBJ",
+      "options": [
+        "Always act with care and competence",
+        "Perform services only in areas of current competence",
+        "Honesty and Integrity",
+        "Take bribes and kick-backs in contracts execution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Take bribes and kick-backs in contracts execution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Engineering Codes of Conduct demand honesty, integrity, and working within one's competence. <strong>Taking bribes and kick-backs</strong> is highly unethical, illegal, and completely contradicts the core values of the engineering profession.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Take bribes and kick-backs in contracts execution</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Engineering Ethics"
+    ],
+    "Question": {
+      "content": "Engineers should be objective and truthful in any statement made in their professional capacity (TRUE or FALSE)",
+      "type": "OBJ",
+      "options": [
+        "TRUE",
+        "FALSE"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "TRUE"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>A fundamental canon of professional engineering ethics is to issue public statements only in an objective and truthful manner, based on adequate knowledge and honest conviction.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> TRUE</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Engineering Ethics"
+    ],
+    "Question": {
+      "content": "Professional engineers should adopt the highest standards of professional conduct, openness, fairness and honesty (TRUE or FALSE)",
+      "type": "OBJ",
+      "options": [
+        "TRUE",
+        "FALSE"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "TRUE"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Upholding the highest standards of professional conduct, which includes fairness, openness, and honesty, is essential to maintaining public trust in the engineering profession.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> TRUE</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Sustainable Development"
+    ],
+    "Question": {
+      "content": "The roles of engineers in achieving sustainable development include the following, except",
+      "type": "OBJ",
+      "options": [
+        "Provision of Sustainable Infrastructure",
+        "Provision of Safety and Sanitation Systems",
+        "Provision of Improvise Explosive Device (IED)",
+        "Provision of Resilient Infrastructure and Disaster Management"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Provision of Improvise Explosive Device (IED)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>Engineers provide vital infrastructure, safety systems, and disaster management solutions to foster sustainable development. Creating an <strong>Improvised Explosive Device (IED)</strong> is a destructive, dangerous, and illegal act, completely antithetical to sustainable development.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Provision of Improvise Explosive Device (IED)</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Sustainable Development"
+    ],
+    "Question": {
+      "content": "A development that meets the needs of the present without compromising the ability of the future generation to meet their own needs is referred to as:",
+      "type": "OBJ",
+      "options": [
+        "Land development",
+        "Rural development",
+        "Urban development",
+        "Sustainable development"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sustainable development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>This is the classic and universally recognized definition of <strong>Sustainable Development</strong>, popularized by the 1987 Brundtland Commission Report (Our Common Future).</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Sustainable development</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Engineering Practice in Nigeria"
+    ],
+    "Question": {
+      "content": "An engineers must not practice in Nigeria except he/she is registered with",
+      "type": "OBJ",
+      "options": [
+        "Nigerian Society of Engineers",
+        "Council for the Regulation of Engineers in Nigeria",
+        "American Society of Safety Engineers",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Council for the Regulation of Engineers in Nigeria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0;'>Concept</h4><p>By law, the statutory body mandated to regulate the practice of engineering in all its aspects and ramifications in Nigeria is the <strong>Council for the Regulation of Engineering in Nigeria (COREN)</strong>. While membership in the Nigerian Society of Engineers (NSE) is highly encouraged and forms part of the professional journey, COREN is the ultimate legal regulatory authority required to practice.</p><div style='background: var(--cAnsBg); color: var(--cAns); padding: 10px; border-radius: 6px;'><strong>✓ Final Answer:</strong> Council for the Regulation of Engineers in Nigeria</div></div>"
+    }
+  }]
